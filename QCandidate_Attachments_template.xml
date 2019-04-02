@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+	          xmlns:o="urn:schemas-microsoft-com:office:office"	
+	          xmlns:x="urn:schemas-microsoft-com:office:excel"	
+	          xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"	
+	          xmlns:html="http://www.w3.org/TR/REC-html40">	
+	   <Names>	
+	      <NamedRange ss:Name="TESTING_DOC_1"	
+	                  ss:RefersTo="='Candidate Attachment'!R6C14:R5000C14"/>	
+	   </Names>	
+	   <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">	
+	      <Author>M I Makda Britehouse</Author>	
+	      <LastAuthor>M I Makda Britehouse</LastAuthor>	
+	      <Created>2017-03-20T10:17:07Z</Created>	
+	      <LastSaved>2017-03-22T07:48:52Z</LastSaved>	
+	      <Version>16.00</Version>	
+	   </DocumentProperties>	
+	   <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">	
+	      <AllowPNG/>	
+	   </OfficeDocumentSettings>	
+	   <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">	
+	      <WindowHeight>11910</WindowHeight>	
+	      <WindowWidth>28800</WindowWidth>	
+	      <WindowTopX>0</WindowTopX>	
+	      <WindowTopY>0</WindowTopY>	
+	      <ProtectStructure>False</ProtectStructure>	
+	      <ProtectWindows>False</ProtectWindows>	
+	   </ExcelWorkbook>	
+	   <Styles>	
+	      <Style ss:ID="Default" ss:Name="Normal">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders/>	
+	         <Font ss:FontName="Calibri"	
+	               x:Family="Swiss"	
+	               ss:Size="11"	
+	               ss:Color="#000000"/>	
+	         <Interior/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="m399313992436">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial" ss:Size="8" ss:Color="#FFFFFF" ss:Bold="1"/>	
+	         <Interior ss:Color="#333399" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="m399313992456">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial"	
+	               x:Family="Swiss"	
+	               ss:Size="8"	
+	               ss:Color="#FFFFFF"	
+	               ss:Bold="1"/>	
+	         <Interior ss:Color="#000066" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="m399313992476">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial"	
+	               x:Family="Swiss"	
+	               ss:Size="8"	
+	               ss:Color="#FFFFFF"	
+	               ss:Bold="1"/>	
+	         <Interior ss:Color="#000066" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="m399313992496">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial"	
+	               x:Family="Swiss"	
+	               ss:Size="8"	
+	               ss:Color="#FFFFFF"	
+	               ss:Bold="1"/>	
+	         <Interior ss:Color="#000066" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="m399313992516">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial" ss:Size="8" ss:Color="#FFFFFF" ss:Bold="1"/>	
+	         <Interior ss:Color="#333399" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s62">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders/>	
+	         <Font ss:FontName="Calibri"	
+	               x:Family="Swiss"	
+	               ss:Size="11"	
+	               ss:Color="#000000"/>	
+	         <Interior/>	
+	         <NumberFormat ss:Format="@"/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s64">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial" ss:Size="14" ss:Color="#000080" ss:Bold="1"/>	
+	         <Interior/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s66">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial" ss:Size="8" ss:Color="#FFFFFF" ss:Bold="1"/>	
+	         <Interior ss:Color="#75923C" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s67">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial" ss:Size="8" ss:Color="#FFFFFF" ss:Bold="1"/>	
+	         <Interior ss:Color="#333399" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s81">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial" ss:Size="8" ss:Color="#808080"/>	
+	         <Interior ss:Color="#FFFFCC"	
+	                   ss:Pattern="ThinHorzCross"	
+	                   ss:PatternColor="#FFFFFF"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s82">	
+	         <Alignment ss:Vertical="Bottom"/>	
+	         <Borders>	
+	            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>	
+	         </Borders>	
+	         <Font ss:FontName="Arial"	
+	               x:Family="Swiss"	
+	               ss:Size="8"	
+	               ss:Color="#FFFFFF"	
+	               ss:Bold="1"/>	
+	         <Interior ss:Color="#333399" ss:Pattern="Solid"/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s83">	
+	         <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>	
+	      </Style>	
+	      <Style ss:ID="s84">	
+	         <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>	
+	         <Borders/>	
+	         <Font ss:FontName="Calibri"	
+	               x:Family="Swiss"	
+	               ss:Size="11"	
+	               ss:Color="#000000"/>	
+	         <Interior/>	
+	         <NumberFormat ss:Format="@"/>	
+	         <Protection/>	
+	      </Style>	
+	      <Style ss:ID="s85">	
+	         <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>	
+	         <Borders/>	
+	         <Font ss:FontName="Calibri"	
+	               x:Family="Swiss"	
+	               ss:Size="11"	
+	               ss:Color="#000000"/>	
+	         <Interior/>	
+	         <NumberFormat/>	
+	         <Protection/>	
+	      </Style>	
+	   </Styles>	
+	   <Worksheet ss:Name="Candidate Attachment">	
+	      <Table ss:DefaultRowHeight="14.4375">	
+	         <Column ss:StyleID="s62" ss:Width="109.5"/>	
+	         <Column ss:Width="109.5" ss:Span="1"/>	
+	         <Column ss:Index="4" ss:StyleID="s62" ss:Width="109.5"/>	
+	         <Column ss:Width="109.5"/>	
+	         <Column ss:StyleID="s62" ss:Width="109.5" ss:Span="4"/>	
+	         <Column ss:Index="11" ss:StyleID="s62" ss:Width="127.5"/>	
+	         <Column ss:StyleID="s62" ss:Width="109.5" ss:Span="1"/>	
+	         <Column ss:Index="14" ss:StyleID="s62" ss:Width="436.5"/>	
+	         <Column ss:StyleID="s62" ss:Width="109.5" ss:Span="2"/>	
+	         <Column ss:Index="18" ss:Width="109.5"/>	
+	         <Column ss:StyleID="s62" ss:Width="109.5" ss:Span="6"/>	
+	         <Row ss:AutoFitHeight="0">	
+	            <Cell ss:MergeAcross="24" ss:StyleID="s64">	
+	               <Data ss:Type="String">Candidate Attachment</Data>	
+	            </Cell>	
+	         </Row>	
+	         <Row ss:AutoFitHeight="0">	
+	            <Cell ss:StyleID="s66">	
+	               <Data ss:Type="String">Area</Data>	
+	            </Cell>	
+	            <Cell ss:MergeAcross="2" ss:StyleID="m399313992436">	
+	               <Data ss:Type="String">All</Data>	
+	            </Cell>	
+	            <Cell ss:MergeAcross="5" ss:StyleID="m399313992456">	
+	               <Data ss:Type="String">Resume Attachments+ (All &gt; Prospect Resume Attachments Data)</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Candidate Attachment Data (All)</Data>	
+	            </Cell>	
+	            <Cell ss:MergeAcross="4" ss:StyleID="m399313992476">	
+	               <Data ss:Type="String">Attachment Data (All &gt; Candidate Attachment Data)</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Candidate Attachment Data (All)</Data>	
+	            </Cell>	
+	            <Cell ss:MergeAcross="2" ss:StyleID="m399313992496">	
+	               <Data ss:Type="String">Job Application Attachment Data+ (All)</Data>	
+	            </Cell>	
+	            <Cell ss:MergeAcross="4" ss:StyleID="m399313992516">	
+	               <Data ss:Type="String">Attachment Data (All &gt; Job Application Attachment Data+)</Data>	
+	            </Cell>	
+	         </Row>	
+	         <Row ss:AutoFitHeight="0">	
+	            <Cell ss:StyleID="s66">	
+	               <Data ss:Type="String">Restrictions</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Required</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Optional</Data>	
+	            </Cell>	
+	         </Row>	
+	         <Row ss:AutoFitHeight="0">	
+	            <Cell ss:StyleID="s66">	
+	               <Data ss:Type="String">Format</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Y/N</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Boolean item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Candidate_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Candidate_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Content_Type_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Content_Type_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">File_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: File_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Content_Type_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Content_Type_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Document_Category__Workday_Owned__ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Document_Category__Workday_Owned__ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Job_Requisition_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Job_Requisition_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Job_Application_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Job_Application_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Content_Type_ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Type: Content_Type_ID</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s81">	
+	               <Data ss:Type="String">Text</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text item</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	         </Row>	
+	         <Row ss:AutoFitHeight="0">	
+	            <Cell ss:StyleID="s66">	
+	               <Data ss:Type="String">Fields</Data>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Spreadsheet Key*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">You must use the spreadsheet key to coordinate the header information throughout the tabs of the spreadsheet. Keep the same spreadsheet key for each row as you add information in the subsequent tabs. The spreadsheet key is also required to coordinate multiple child rows that roll up to the same parent row.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Add Only</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Add Only Flag.  Indicates that the service is an add only, not an update. If an existing instance is found and this flag is set there will be an error.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Candidate*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Reference to a Candidate.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Row ID*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">You must use the row ID to coordinate the data that spreads across multiple rows in the spreadsheet. A change in the value of the ID indicates that a new child object will be created under the same parent object.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text attribute identifying a unique ID for Attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Filename*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Filename for the attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">File Content*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">File content in binary format.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Mime Type</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Mime Type Reference</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Comment</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Comment</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Candidate Attachment</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Reference for a Candidate Attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text attribute identifying a unique ID for Attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Filename*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Filename for the attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">File Content*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">File content in binary format.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s82">	
+	               <Data ss:Type="String">Mime Type</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Mime Type Reference</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Comment</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Comment</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Document Category*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Identifies the category for the document.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Row ID*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">You must use the row ID to coordinate the data that spreads across multiple rows in the spreadsheet. A change in the value of the ID indicates that a new child object will be created under the same parent object.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Job Requisition</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Contains information about the candidate and their photo.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Job Application</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Reference for a Job Application.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">ID</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Text attribute identifying a unique ID for Attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Filename*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Filename for the attachment.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">File Content*</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">File content in binary format.</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Mime Type</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Mime Type Reference</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	            <Cell ss:StyleID="s67">	
+	               <Data ss:Type="String">Comment</Data>	
+	               <Comment>	
+	                  <ss:Data xmlns="http://www.w3.org/TR/REC-html40">Comment</ss:Data>	
+	               </Comment>	
+	            </Cell>	
+	</Row>		
+	 <RowData/>
+	 </Table>
+</Worksheet>
+</Workbook>
